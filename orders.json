@@ -1,0 +1,47 @@
+{
+  "SE428152788DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Pflegler 4, 79576 Weil am Rhein, Deutschland",
+    "receiver": "Jannik Ostermaier, Lindenstraße 38, 5113 St. Georgen bei Salzburg, Österreich",
+    "price": "9.300,00 €",
+    "description": "Hersteller: Aprilia<br>Typ: RS 660<br>Fahrgestelnummer: ZD4KVH002MS000573<br>Erstzulassung: 09/2021<br>KM laut Vorbesitzer: 3.000 km<br>Leistung: 35 kW (48 PS)<br>Hubraum: 659 cm³<br>Farbe: Gelb<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Jannik Ostermaier<br>Lindenstraße 38<br>5113 St. Georgen bei Salzburg<br>Österreich<br>Telefon: +43 677 62684304",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "28.05.2026",
+    "deliveryDate": "03.06.2026 16:30 Uhr",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
